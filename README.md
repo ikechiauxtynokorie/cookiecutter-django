@@ -1,5 +1,7 @@
 # Cookiecutter Django
 
+# Something New
+
 [![Build Status](https://img.shields.io/github/workflow/status/cookiecutter/cookiecutter-django/CI/master)](https://github.com/cookiecutter/cookiecutter-django/actions?query=workflow%3ACI)
 [![Documentation Status](https://readthedocs.org/projects/cookiecutter-django/badge/?version=latest)](https://cookiecutter-django.readthedocs.io/en/latest/?badge=latest)
 [![Updates](https://pyup.io/repos/github/cookiecutter/cookiecutter-django/shield.svg)](https://pyup.io/repos/github/cookiecutter/cookiecutter-django/)
